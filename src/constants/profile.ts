@@ -132,7 +132,7 @@ export const profileData: ProfileData = {
       link: "https://github.com/yourusername/tc-issuance-system", // Replace with actual project link
     },
   ],
-  resumeUrl: "/ShaniMaurya_Resume_2025.pdf",
+  resumeUrl: "/Shani_Maurya_Resume.pdf",
   linkedinUrl: "https://www.linkedin.com/in/shanimaurya1913",
   githubUrl: "https://github.com/shanimaurya1913",
   email: "shanimaurya1913@gmail.com",
